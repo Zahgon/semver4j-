@@ -1,0 +1,10 @@
+{
+  "name": "semver4j-js",
+  "version": "3.1.0",
+  "description": "JavaScript port of vdurmont/semver4j",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}

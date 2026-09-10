@@ -1,7 +1,4 @@
-.idea
-.classpath
-.project
-.settings
-.vscode
-*.iml
-target
+node_modules/
+*.patch
+instruction.md
+TRUTH.md
